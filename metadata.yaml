@@ -1,0 +1,77 @@
+_repo: The-book-of-filial-duty_75878
+_version: 0.0.1
+alternative_title: Xiao jing. English
+contributor:
+  translator:
+    agent_name: Chên, Ivan
+    alias: Chen, Ivan
+    gutenberg_agent_id: '58193'
+    url: http://www.gutenberg.org/2009/agents/58193
+creator:
+  authors:
+  - agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: https://en.wikipedia.org/wiki/Confucius
+  - agent_name: Zengzi
+    aliases:
+    - Tseng, Shen
+    - Tseng-tzu
+    - Zeng, Shen
+    - 曽子
+    - 曾參
+    - 曾参
+    - Tsêng, Ts‘an
+    - 曾子
+    birthdate: -505
+    deathdate: -437
+    gutenberg_agent_id: '58188'
+    url: http://www.gutenberg.org/2009/agents/58188
+    wikipedia: https://en.wikipedia.org/wiki/Zengzi
+  editors:
+  - agent_name: Cranmer-Byng, L. (Launcelot)
+    alias: Cranmer-Byng, Launcelot Alfred
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '215'
+    url: http://www.gutenberg.org/2009/agents/215
+    wikipedia: https://en.wikipedia.org/wiki/Launcelot_Cranmer-Byng
+  - agent_name: Kapadia, S. A. (Shaporji Aspaniarji)
+    aliases:
+    - Kapadia, Shapurji Aspaniarji
+    - Kapadia, Shaporji Aspaniarji
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '50246'
+    url: http://www.gutenberg.org/2009/agents/50246
+description: 'Translation of: 孝經 (Xiaojing, or Hsiao Ching).
+
+  Wikipedia page about this book: https://en.wikipedia.org/wiki/Classic_of_Filial_Piety
+
+  "Assigned partly to Confucius and partly to Tsêng Ts‘an, though it more probably
+  belongs to a very much later date."--Giles, Chinese literature.'
+gutenberg_issued: '2025-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75878'
+  lccn: ca14000244
+language: en
+pgterms:marc905: 20241215185430chen
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Bob Taylor, The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The wisdom of the East series (London, England)
+subjects:
+- !lcsh 'Filial piety -- China'
+- !lcc 'PL'
+- GITenberg
+title: The book of filial duty
+url: http://www.gutenberg.org/ebooks/75878
