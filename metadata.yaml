@@ -7,6 +7,9 @@ contributor:
     alias: Chen, Ivan
     gutenberg_agent_id: '58193'
     url: http://www.gutenberg.org/2009/agents/58193
+covers:
+- cover_type: archival
+  image_path: 75878-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Confucius
@@ -53,6 +56,8 @@ description: 'Translation of: 孝經 (Xiaojing, or Hsiao Ching).
 
   "Assigned partly to Confucius and partly to Tsêng Ts‘an, though it more probably
   belongs to a very much later date."--Giles, Chinese literature.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75878#The-book-of-filial-duty
 gutenberg_issued: '2025-04-16'
 gutenberg_type: Text
 identifiers:
